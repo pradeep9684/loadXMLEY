@@ -1,0 +1,41 @@
+{
+	"Modules": {
+		"1": {
+			"name": "Information produced by the Entity",
+			"topic11": {
+				"title": "Objectives",
+				"thumb": "swf/images/M1_1.png",
+				"height": "swf/FAIT_M6_01.swf"
+			},
+			"topic12": {
+				"title": "Objectives",
+				"thumb": "swf/images/M1_1.png",
+				"height": "swf/FAIT_M6_01.swf"
+			},
+			"topic13": {
+				"title": "Objectives",
+				"thumb": "swf/images/M1_1.png",
+				"height": "swf/FAIT_M6_01.swf"
+			}
+		},
+		"2": {
+			"name": "Information produced by the Entity",
+			"topic1": {
+				"title": "Objectives",
+				"thumb": "swf/images/M1_1.png",
+				"height": "swf/FAIT_M6_01.swf"
+			},
+			"topic2": {
+				"title": "Objectives",
+				"thumb": "swf/images/M1_1.png",
+				"height": "swf/FAIT_M6_01.swf"
+			},
+			"topic3": {
+				"title": "Objectives",
+				"thumb": "swf/images/M1_1.png",
+				"height": "swf/FAIT_M6_01.swf"
+			}
+		}
+
+	}
+}

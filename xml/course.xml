@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<course>
+
+	<resource>
+		<res title ="resource 01" value="https://www.google.com"/> 
+        <res title ="resource 02" value="https://www.google.com"/> 
+	</resource>
+	
+	<structure>
+		<module title="Home Page" >
+			<page path="html/page_1.html"  title="Page 01" />
+		</module>
+		<module title="nunc ac sit nostrum">
+			<page path="html/page_2.html" title="Page 02" />
+			<page path="html/page_3.html" title="Page 03" />
+			
+			
+		</module>
+		<module title="mauris porttitor">
+			
+			<page path="html/page_4.html" title="Page 04" />
+			<page path="html/page_5.html" title="Assessment" />
+					
+		</module>
+		
+		<!--module title="Assessment">
+			<page path="page47.html" audio="" data="" styles="page30.css" scripts="page47.js" title="Page 06" />
+			<page path="page48.html" audio="" data="" styles="page48.css" scripts="page48.js" title="Assessment" />
+			<page path="assessment.html" audio="" data="assessment.json" styles="assessment.css?v=1.0" scripts="assessment.js" title="Assessment" />
+		</module-->
+		
+	</structure>
+</course>
